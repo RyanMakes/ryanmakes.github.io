@@ -5,6 +5,8 @@ Behold how Molto Benny, beloved mascot of PizzaDAO[^PizzaDAO], journeys into mat
 
 Part of Ryan Makes theme of making thoughts into things, manifesting dreams into realities.
 
+![Global_PizzaParty_Animate-ONLY_950.gif](Global_PizzaParty_Animate-ONLY_950.gif)
+
 ### Accepting all bids during Benny's first public showing, Art Of Fashion June 15 2024 at Toronto's Goat Gallery.
 Each hand painted 3D printed Benny comes with a rare Benny NFT[^bennynft]
 
@@ -15,7 +17,6 @@ Bids are meme numbers, for the culture.
 
 "Buy it all now" price **3.14 ETH** includes both Benny Boy Brothers, two rare Benny NFTs, AND a Rare Pizzas NFT Pizza Box[^pizzabox], making you a member of the PizzaDAO famiglia!
 
-![Global_PizzaParty_Animate-ONLY_950.gif](Global_PizzaParty_Animate-ONLY_950.gif)
 
 
 Credits:
