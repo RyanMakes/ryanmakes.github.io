@@ -4,8 +4,8 @@
 
 # Projects
 
-- [Projects](./projects/projects.md)
-  - [Molto Benny](./projects/benny/benny.md)
+- [Projects](./projects.md)
+  - [Molto Benny](./benny/index.md)
 
 # Logs
 
