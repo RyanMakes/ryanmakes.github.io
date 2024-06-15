@@ -17,6 +17,7 @@ Bids are meme numbers, for the culture.
 
 "Buy it all now" price **3.14 ETH** includes both Benny Boy Brothers, two rare Benny NFTs, AND a Rare Pizzas NFT Pizza Box[^pizzabox], making you a member of the PizzaDAO famiglia!
 
+![Benny-Walking.gif](benny-walking.gif)
 
 
 Credits:
