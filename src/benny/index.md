@@ -5,6 +5,16 @@ Behold how Molto Benny, beloved mascot of PizzaDAO[^PizzaDAO], journeys into mat
 
 Part of Ryan Makes theme of making thoughts into things, manifesting dreams into realities.
 
+### Accepting all bids during Benny's first public showing, Art Of Fashion June 15 2024 at Toronto's Goat Gallery.
+Each hand painted 3D printed Benny comes with a rare Benny NFT[^bennynft]
+
+Bids are meme numbers, for the culture.
+
+#### Bidding starts at **0.1337 ETH** for Little Brother Benny
+#### Bidding starts at **0.69420 ETH** for Big Brother Benny
+
+"Buy it all now" price **3.14 ETH** includes both Benny Boy Brothers, two rare Benny NFTs, AND a Rare Pizzas NFT Pizza Box[^pizzabox], making you a member of the PizzaDAO famiglia!
+
 ![Global_PizzaParty_Animate-ONLY_950.gif](Global_PizzaParty_Animate-ONLY_950.gif)
 
 
@@ -21,13 +31,6 @@ Original concept design and illustration by Brandon Forant
 Hand painting Anastasia @from.Anastasia.with.Love[^anastasia]
 
 ![bennypic3](bennypic3edited.jpg)
-
-
-
-### Accepting all bids during Benny's first public showing, Art Of Fashion June 15 2024 at Toronto's Goat Gallery.
-#### Bidding starts at **0.1337 ETH** for Little Brother Benny
-#### Bidding starts at **0.69420 ETH** for Big Brother Benny
-Each Benny comes with a rare Benny NFT (link)
 
 
 Background and Lore:
@@ -47,20 +50,21 @@ Ryan Makes will also be using part of every sale to buy laptops and other educat
 Ryan Makes has been a proud member of the PizzaDAO family for years, helping coordinate the DAO and parties like Toronto's Pizza Day.
 When asked questions like "isn't everything 'crypto' bad?" Ryan's locked-and-loaded answer is "The world is full of scams, but the pizza is real. PizzaDAO has never lied to me - promises made are promises kept. That's rare! Have a slice!"
 
+Ryan wanted the Benny toy depicted in the NFT to be real, so he forced it into existence and now you can hold it in your hand.
 
-[PizzaDAO](http://pizzadao.xyz/){target="_blank"}
-
+## Bottom Line
+### This is a rare chance to support great causes and get to own a unique part of history.
+### Be a hero at every Pizza Day forever with your own OG Benny sculpture!
 
 Links:
 
 [^PizzaDAO]:( [PizzaDAO](http://pizzadao.xyz) )
+[^bennynft]: ( [Benny NFT](https://zapper.xyz/nft/ethereum/0xbc276e47ccc9cd641cf58932a006fdad5f51a9a9/3) )
+[^pizzabox]: ( [Rare Pizzas PizzaDAO Pizza Box](https://www.rarepizzas.com/) )
 [^infi1trate]: ( [instagram @infi1trate](https://www.instagram.com/infi1trate/) )
 [^brauxelion]: ( [twitter @brauxelion_](https://x.com/brauxelion_))
-[^ryanmakes]: ( You are on RyanMakes.ca right now, this is my website ^_^ )
+[^ryanmakes]: ( You are on RyanMakes.ca right now, this is my website ^_^ [instagram @ryanmakes.ca](https://www.instagram.com/ryanmakes.ca) )
 [^anastasia]: ( [instagram @from.Anastasia.with.Love]((https://www.instagram.com/from.anastasia.with.love/)) )
-
-
-Molto Benny NFTs
-ryanmakes.ca/benny - and QR code here
-Art Of Fashion show June 15 2024 http://artoffashion.ca/
-Goat Gallery https://www.goat.gallery/index.html
+[^artoffasion]: ( [Art Of Fashion June 15 2024](http://artoffashion.ca/) )
+[^goatgallery]: ( [Goat Gallery](https://www.goat.gallery/) )
+[^qrcode]: ( [QR code for https://ryanmakes.ca/benny/ (this page)](qr-code-ryanmakesca-benny.png) )
