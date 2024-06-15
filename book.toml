@@ -1,5 +1,14 @@
 [book]
+title = "RyanMakes.ca"
+description = "Projects and logs for the things Ryan Makes"
 authors = ["Ryan Makes"]
 language = "en"
 multilingual = false
 src = "src"
+
+[output.html]
+git-repository-url = "https://github.com/ryanmakes/ryanmakes.github.io"
+edit-url-template = "https://github.com/ryanmakes/ryanmakes.github.io/edit/main/{path}"
+
+#[output.html.redirect]
+#"/benny" = "/benny/index.html"
