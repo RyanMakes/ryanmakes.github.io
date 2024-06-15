@@ -1,6 +1,6 @@
 # Summary
 
-[Introduction](README.md)
+[Introduction](introduction.md)
 
 # Projects
 
@@ -9,9 +9,10 @@
 
 # Logs
 
-- [Logs](./logs/dates-and-summaries.md)
+- [Logs](./logs/index.md)
+  - [Logs - dates and summaries](./logs/dates-and-summaries.md)
   - [2024-06-15 Day One Again](./logs/2024-06-15.md)
 
 ---------------
 
-[Glossary](./glossary/glossary.md)
+[Glossary](./glossary/index.md)
