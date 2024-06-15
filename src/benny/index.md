@@ -1,26 +1,24 @@
-Molto Benny
-===========
+Molto Benny 2024
+================
 
-Behold how Molto Benny, beloved mascot of PizzaDAO, takes a journey further into being and material existence.
+Behold how Molto Benny, beloved mascot of PizzaDAO[^PizzaDAO], journeys into material existence.
 
 Part of Ryan Makes theme of making thoughts into things, manifesting dreams into realities.
+
+![Global_PizzaParty_Animate-ONLY_950.gif](Global_PizzaParty_Animate-ONLY_950.gif)
 
 
 Credits:
 --------
-Original design and illustration by Brandon Forant (year)
-instagram @infi1trate
+Original concept design and illustration by Brandon Forant
+@infi1trate[^infi1trate]
 
-3D model design by brauxelion 2023
-xtwitter @brauxelion_
+3D model design by brauxelion
+@brauxelion_[^brauxelion]
 
-3D printing by Ryan Makes 2024
-RyanMakes.ca (maybe also fedi and instagram here)
+3D printing by Ryan Makes @ryanmakes.ca[^ryanmakes]
 
-Hand painting from.Anastasia.with.Love 2024
-instagram @from.Anastasia.with.Love https://www.instagram.com/from.anastasia.with.love/
-
-(OG Benny illustrations here)
+Hand painting Anastasia @from.Anastasia.with.Love[^anastasia]
 
 ![bennypic3](bennypic3edited.jpg)
 
@@ -50,11 +48,18 @@ Ryan Makes has been a proud member of the PizzaDAO family for years, helping coo
 When asked questions like "isn't everything 'crypto' bad?" Ryan's locked-and-loaded answer is "The world is full of scams, but the pizza is real. PizzaDAO has never lied to me - promises made are promises kept. That's rare! Have a slice!"
 
 
-
+[PizzaDAO](http://pizzadao.xyz/){target="_blank"}
 
 
 Links:
-PizzaDAO pizzadao.xyz
+
+[^PizzaDAO]:( [PizzaDAO](http://pizzadao.xyz) )
+[^infi1trate]: ( [instagram @infi1trate](https://www.instagram.com/infi1trate/) )
+[^brauxelion]: ( [twitter @brauxelion_](https://x.com/brauxelion_))
+[^ryanmakes]: ( You are on RyanMakes.ca right now, this is my website ^_^ )
+[^anastasia]: ( [instagram @from.Anastasia.with.Love]((https://www.instagram.com/from.anastasia.with.love/)) )
+
+
 Molto Benny NFTs
 ryanmakes.ca/benny - and QR code here
 Art Of Fashion show June 15 2024 http://artoffashion.ca/
