@@ -1,4 +1,3 @@
 # Lucifer
 
-lol hi
-Like that tv show I am watching! 
+![20240620_Lucifer picture](20240620_Lucifer.jpg)
