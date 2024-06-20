@@ -8,6 +8,7 @@
   - [Molto Benny](./benny/index.md)
   - [Lucifer](./lucifer/index.md)
   - [Daydreamasaurus](./daydreamasaurus/index.md)
+  - [Crown thing](./crownthing/index.md)
 
 # Logs
 
