@@ -6,6 +6,7 @@
 
 - [Projects](./projects.md)
   - [Molto Benny](./benny/index.md)
+  - [Lucifer](./lucifer/index.md)
 
 # Logs
 

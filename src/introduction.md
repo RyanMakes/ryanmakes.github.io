@@ -7,3 +7,6 @@ It is my intention to collect and showcase and explain my projects and documenta
 
 
 This site is under construction, but please feel free to have a look around.
+
+
+Thanks for being here with us today :)
