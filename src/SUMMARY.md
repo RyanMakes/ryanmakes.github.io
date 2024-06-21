@@ -9,13 +9,12 @@
   - [Lucifer](./lucifer/index.md)
   - [Daydreamasaurus](./daydreamasaurus/index.md)
   - [Crown thing](./crownthing/index.md)
-
-# Logs
-
-- [Logs](./logs/index.md)
-  - [Logs - dates and summaries](./logs/dates-and-summaries.md)
-  - [2024-06-15 Day One Again](./logs/2024-06-15.md)
+  - [EMA](./ema/index.md)
 
 ---------------
 
 [Glossary](./glossary/index.md)
+
+---------------
+
+[Colophon](./colophon/index.md)
