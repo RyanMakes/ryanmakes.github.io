@@ -27,4 +27,4 @@ These are the PDF copies of the show's printed materials:
   - Galileo Galilei
   - Daydreamasaurus herd
   - Laser engraved Mallo mug inside the laser machine
-  - 
+  - Many fidgets!
