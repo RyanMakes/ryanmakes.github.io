@@ -12,3 +12,5 @@ This site is under construction, but please feel free to have a look around.
 
 
 Thanks for being here with us today :)
+
+If you're here for Doing The Lord's Work, I'm still working on it [here](doingthelordswork.md).

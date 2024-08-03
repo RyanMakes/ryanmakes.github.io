@@ -1,6 +1,7 @@
 # Summary
 
 [Introduction](introduction.md)
+[Doing The Lord's Work](doingthelordswork.md)
 
 # Projects
 
